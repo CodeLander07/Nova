@@ -1,5 +1,5 @@
 {
-  "name": "Nova_new_ideas_sparking_live",
+  "name": "Nova-new ideas sparking live",
   "private": true,
   "scripts": {
     "build": "turbo run build",
